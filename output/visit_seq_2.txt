@@ -1,0 +1,1503 @@
+第0次VP number PF number TLB hit/no hit  PT hit/no hit：
+7034  95  TLB no hit  PT no hit
+7034  95  TLB  hit  PT hit
+7034  95  TLB  hit  PT hit
+7034  95  TLB  hit  PT hit
+7034  95  TLB  hit  PT hit
+7034  95  TLB  hit  PT hit
+7034  95  TLB  hit  PT hit
+7034  95  TLB  hit  PT hit
+7034  95  TLB  hit  PT hit
+7034  95  TLB  hit  PT hit
+1329  96  TLB no hit  PT no hit
+1329  96  TLB  hit  PT hit
+1329  96  TLB  hit  PT hit
+1329  96  TLB  hit  PT hit
+1329  96  TLB  hit  PT hit
+1329  96  TLB  hit  PT hit
+1329  96  TLB  hit  PT hit
+1329  96  TLB  hit  PT hit
+1329  96  TLB  hit  PT hit
+1329  96  TLB  hit  PT hit
+3440  97  TLB no hit  PT no hit
+3440  97  TLB  hit  PT hit
+3440  97  TLB  hit  PT hit
+3440  97  TLB  hit  PT hit
+3440  97  TLB  hit  PT hit
+3440  97  TLB  hit  PT hit
+3440  97  TLB  hit  PT hit
+3440  97  TLB  hit  PT hit
+3440  97  TLB  hit  PT hit
+3440  97  TLB  hit  PT hit
+5411  98  TLB no hit  PT no hit
+5411  98  TLB  hit  PT hit
+5411  98  TLB  hit  PT hit
+5411  98  TLB  hit  PT hit
+5411  98  TLB  hit  PT hit
+5411  98  TLB  hit  PT hit
+5411  98  TLB  hit  PT hit
+5411  98  TLB  hit  PT hit
+5411  98  TLB  hit  PT hit
+5411  98  TLB  hit  PT hit
+6415  99  TLB no hit  PT no hit
+6415  99  TLB  hit  PT hit
+6415  99  TLB  hit  PT hit
+6415  99  TLB  hit  PT hit
+6415  99  TLB  hit  PT hit
+6415  99  TLB  hit  PT hit
+6415  99  TLB  hit  PT hit
+6415  99  TLB  hit  PT hit
+6415  99  TLB  hit  PT hit
+6415  99  TLB  hit  PT hit
+4070  100  TLB no hit  PT no hit
+4070  100  TLB  hit  PT hit
+4070  100  TLB  hit  PT hit
+4070  100  TLB  hit  PT hit
+4070  100  TLB  hit  PT hit
+4070  100  TLB  hit  PT hit
+4070  100  TLB  hit  PT hit
+4070  100  TLB  hit  PT hit
+4070  100  TLB  hit  PT hit
+4070  100  TLB  hit  PT hit
+7619  101  TLB no hit  PT no hit
+7619  101  TLB  hit  PT hit
+7619  101  TLB  hit  PT hit
+7619  101  TLB  hit  PT hit
+7619  101  TLB  hit  PT hit
+7619  101  TLB  hit  PT hit
+7619  101  TLB  hit  PT hit
+7619  101  TLB  hit  PT hit
+7619  101  TLB  hit  PT hit
+7619  101  TLB  hit  PT hit
+4034  102  TLB no hit  PT no hit
+4034  102  TLB  hit  PT hit
+4034  102  TLB  hit  PT hit
+4034  102  TLB  hit  PT hit
+4034  102  TLB  hit  PT hit
+4034  102  TLB  hit  PT hit
+4034  102  TLB  hit  PT hit
+4034  102  TLB  hit  PT hit
+4034  102  TLB  hit  PT hit
+4034  102  TLB  hit  PT hit
+7048  103  TLB no hit  PT no hit
+7048  103  TLB  hit  PT hit
+7048  103  TLB  hit  PT hit
+7048  103  TLB  hit  PT hit
+7048  103  TLB  hit  PT hit
+7048  103  TLB  hit  PT hit
+7048  103  TLB  hit  PT hit
+7048  103  TLB  hit  PT hit
+7048  103  TLB  hit  PT hit
+7048  103  TLB  hit  PT hit
+2707  104  TLB no hit  PT no hit
+2707  104  TLB  hit  PT hit
+2707  104  TLB  hit  PT hit
+2707  104  TLB  hit  PT hit
+2707  104  TLB  hit  PT hit
+2707  104  TLB  hit  PT hit
+2707  104  TLB  hit  PT hit
+2707  104  TLB  hit  PT hit
+2707  104  TLB  hit  PT hit
+2707  104  TLB  hit  PT hit
+4696  105  TLB no hit  PT no hit
+4696  105  TLB  hit  PT hit
+4696  105  TLB  hit  PT hit
+4696  105  TLB  hit  PT hit
+4696  105  TLB  hit  PT hit
+4696  105  TLB  hit  PT hit
+4696  105  TLB  hit  PT hit
+4696  105  TLB  hit  PT hit
+4696  105  TLB  hit  PT hit
+4696  105  TLB  hit  PT hit
+1815  106  TLB no hit  PT no hit
+1815  106  TLB  hit  PT hit
+1815  106  TLB  hit  PT hit
+1815  106  TLB  hit  PT hit
+1815  106  TLB  hit  PT hit
+1815  106  TLB  hit  PT hit
+1815  106  TLB  hit  PT hit
+1815  106  TLB  hit  PT hit
+1815  106  TLB  hit  PT hit
+1815  106  TLB  hit  PT hit
+6505  107  TLB no hit  PT no hit
+6505  107  TLB  hit  PT hit
+6505  107  TLB  hit  PT hit
+6505  107  TLB  hit  PT hit
+6505  107  TLB  hit  PT hit
+6505  107  TLB  hit  PT hit
+6505  107  TLB  hit  PT hit
+6505  107  TLB  hit  PT hit
+6505  107  TLB  hit  PT hit
+6505  107  TLB  hit  PT hit
+615  108  TLB no hit  PT no hit
+615  108  TLB  hit  PT hit
+615  108  TLB  hit  PT hit
+615  108  TLB  hit  PT hit
+615  108  TLB  hit  PT hit
+615  108  TLB  hit  PT hit
+615  108  TLB  hit  PT hit
+615  108  TLB  hit  PT hit
+615  108  TLB  hit  PT hit
+615  108  TLB  hit  PT hit
+4702  109  TLB no hit  PT no hit
+4702  109  TLB  hit  PT hit
+4702  109  TLB  hit  PT hit
+4702  109  TLB  hit  PT hit
+4702  109  TLB  hit  PT hit
+4702  109  TLB  hit  PT hit
+4702  109  TLB  hit  PT hit
+4702  109  TLB  hit  PT hit
+4702  109  TLB  hit  PT hit
+4702  109  TLB  hit  PT hit
+8085  110  TLB no hit  PT no hit
+8085  110  TLB  hit  PT hit
+8085  110  TLB  hit  PT hit
+8085  110  TLB  hit  PT hit
+8085  110  TLB  hit  PT hit
+8085  110  TLB  hit  PT hit
+8085  110  TLB  hit  PT hit
+8085  110  TLB  hit  PT hit
+8085  110  TLB  hit  PT hit
+8085  110  TLB  hit  PT hit
+3010  111  TLB no hit  PT no hit
+3010  111  TLB  hit  PT hit
+3010  111  TLB  hit  PT hit
+3010  111  TLB  hit  PT hit
+3010  111  TLB  hit  PT hit
+3010  111  TLB  hit  PT hit
+3010  111  TLB  hit  PT hit
+3010  111  TLB  hit  PT hit
+3010  111  TLB  hit  PT hit
+3010  111  TLB  hit  PT hit
+6742  112  TLB no hit  PT no hit
+6742  112  TLB  hit  PT hit
+6742  112  TLB  hit  PT hit
+6742  112  TLB  hit  PT hit
+6742  112  TLB  hit  PT hit
+6742  112  TLB  hit  PT hit
+6742  112  TLB  hit  PT hit
+6742  112  TLB  hit  PT hit
+6742  112  TLB  hit  PT hit
+6742  112  TLB  hit  PT hit
+7647  113  TLB no hit  PT no hit
+7647  113  TLB  hit  PT hit
+7647  113  TLB  hit  PT hit
+7647  113  TLB  hit  PT hit
+7647  113  TLB  hit  PT hit
+7647  113  TLB  hit  PT hit
+7647  113  TLB  hit  PT hit
+7647  113  TLB  hit  PT hit
+7647  113  TLB  hit  PT hit
+7647  113  TLB  hit  PT hit
+2764  114  TLB no hit  PT no hit
+2764  114  TLB  hit  PT hit
+2764  114  TLB  hit  PT hit
+2764  114  TLB  hit  PT hit
+2764  114  TLB  hit  PT hit
+2764  114  TLB  hit  PT hit
+2764  114  TLB  hit  PT hit
+2764  114  TLB  hit  PT hit
+2764  114  TLB  hit  PT hit
+2764  114  TLB  hit  PT hit
+2231  115  TLB no hit  PT no hit
+2231  115  TLB  hit  PT hit
+2231  115  TLB  hit  PT hit
+2231  115  TLB  hit  PT hit
+2231  115  TLB  hit  PT hit
+2231  115  TLB  hit  PT hit
+2231  115  TLB  hit  PT hit
+2231  115  TLB  hit  PT hit
+2231  115  TLB  hit  PT hit
+2231  115  TLB  hit  PT hit
+129  116  TLB no hit  PT no hit
+129  116  TLB  hit  PT hit
+129  116  TLB  hit  PT hit
+129  116  TLB  hit  PT hit
+129  116  TLB  hit  PT hit
+129  116  TLB  hit  PT hit
+129  116  TLB  hit  PT hit
+129  116  TLB  hit  PT hit
+129  116  TLB  hit  PT hit
+129  116  TLB  hit  PT hit
+3549  117  TLB no hit  PT no hit
+3549  117  TLB  hit  PT hit
+3549  117  TLB  hit  PT hit
+3549  117  TLB  hit  PT hit
+3549  117  TLB  hit  PT hit
+3549  117  TLB  hit  PT hit
+3549  117  TLB  hit  PT hit
+3549  117  TLB  hit  PT hit
+3549  117  TLB  hit  PT hit
+3549  117  TLB  hit  PT hit
+4269  118  TLB no hit  PT no hit
+4269  118  TLB  hit  PT hit
+4269  118  TLB  hit  PT hit
+4269  118  TLB  hit  PT hit
+4269  118  TLB  hit  PT hit
+4269  118  TLB  hit  PT hit
+4269  118  TLB  hit  PT hit
+4269  118  TLB  hit  PT hit
+4269  118  TLB  hit  PT hit
+4269  118  TLB  hit  PT hit
+7094  119  TLB no hit  PT no hit
+7094  119  TLB  hit  PT hit
+7094  119  TLB  hit  PT hit
+7094  119  TLB  hit  PT hit
+7094  119  TLB  hit  PT hit
+7094  119  TLB  hit  PT hit
+7094  119  TLB  hit  PT hit
+7094  119  TLB  hit  PT hit
+7094  119  TLB  hit  PT hit
+7094  119  TLB  hit  PT hit
+5504  120  TLB no hit  PT no hit
+5504  120  TLB  hit  PT hit
+5504  120  TLB  hit  PT hit
+5504  120  TLB  hit  PT hit
+5504  120  TLB  hit  PT hit
+5504  120  TLB  hit  PT hit
+5504  120  TLB  hit  PT hit
+5504  120  TLB  hit  PT hit
+5504  120  TLB  hit  PT hit
+5504  120  TLB  hit  PT hit
+4942  121  TLB no hit  PT no hit
+4942  121  TLB  hit  PT hit
+4942  121  TLB  hit  PT hit
+4942  121  TLB  hit  PT hit
+4942  121  TLB  hit  PT hit
+4942  121  TLB  hit  PT hit
+4942  121  TLB  hit  PT hit
+4942  121  TLB  hit  PT hit
+4942  121  TLB  hit  PT hit
+4942  121  TLB  hit  PT hit
+7666  122  TLB no hit  PT no hit
+7666  122  TLB  hit  PT hit
+7666  122  TLB  hit  PT hit
+7666  122  TLB  hit  PT hit
+7666  122  TLB  hit  PT hit
+7666  122  TLB  hit  PT hit
+7666  122  TLB  hit  PT hit
+7666  122  TLB  hit  PT hit
+7666  122  TLB  hit  PT hit
+7666  122  TLB  hit  PT hit
+6355  123  TLB no hit  PT no hit
+6355  123  TLB  hit  PT hit
+6355  123  TLB  hit  PT hit
+6355  123  TLB  hit  PT hit
+6355  123  TLB  hit  PT hit
+6355  123  TLB  hit  PT hit
+6355  123  TLB  hit  PT hit
+6355  123  TLB  hit  PT hit
+6355  123  TLB  hit  PT hit
+6355  123  TLB  hit  PT hit
+2212  124  TLB no hit  PT no hit
+2212  124  TLB  hit  PT hit
+2212  124  TLB  hit  PT hit
+2212  124  TLB  hit  PT hit
+2212  124  TLB  hit  PT hit
+2212  124  TLB  hit  PT hit
+2212  124  TLB  hit  PT hit
+2212  124  TLB  hit  PT hit
+2212  124  TLB  hit  PT hit
+2212  124  TLB  hit  PT hit
+966  125  TLB no hit  PT no hit
+966  125  TLB  hit  PT hit
+966  125  TLB  hit  PT hit
+966  125  TLB  hit  PT hit
+966  125  TLB  hit  PT hit
+966  125  TLB  hit  PT hit
+966  125  TLB  hit  PT hit
+966  125  TLB  hit  PT hit
+966  125  TLB  hit  PT hit
+966  125  TLB  hit  PT hit
+242  126  TLB no hit  PT no hit
+242  126  TLB  hit  PT hit
+242  126  TLB  hit  PT hit
+242  126  TLB  hit  PT hit
+242  126  TLB  hit  PT hit
+242  126  TLB  hit  PT hit
+242  126  TLB  hit  PT hit
+242  126  TLB  hit  PT hit
+242  126  TLB  hit  PT hit
+242  126  TLB  hit  PT hit
+7004  127  TLB no hit  PT no hit
+7004  127  TLB  hit  PT hit
+7004  127  TLB  hit  PT hit
+7004  127  TLB  hit  PT hit
+7004  127  TLB  hit  PT hit
+7004  127  TLB  hit  PT hit
+7004  127  TLB  hit  PT hit
+7004  127  TLB  hit  PT hit
+7004  127  TLB  hit  PT hit
+7004  127  TLB  hit  PT hit
+5513  128  TLB no hit  PT no hit
+5513  128  TLB  hit  PT hit
+5513  128  TLB  hit  PT hit
+5513  128  TLB  hit  PT hit
+5513  128  TLB  hit  PT hit
+5513  128  TLB  hit  PT hit
+5513  128  TLB  hit  PT hit
+5513  128  TLB  hit  PT hit
+5513  128  TLB  hit  PT hit
+5513  128  TLB  hit  PT hit
+3141  129  TLB no hit  PT no hit
+3141  129  TLB  hit  PT hit
+3141  129  TLB  hit  PT hit
+3141  129  TLB  hit  PT hit
+3141  129  TLB  hit  PT hit
+3141  129  TLB  hit  PT hit
+3141  129  TLB  hit  PT hit
+3141  129  TLB  hit  PT hit
+3141  129  TLB  hit  PT hit
+3141  129  TLB  hit  PT hit
+1453  130  TLB no hit  PT no hit
+1453  130  TLB  hit  PT hit
+1453  130  TLB  hit  PT hit
+1453  130  TLB  hit  PT hit
+1453  130  TLB  hit  PT hit
+1453  130  TLB  hit  PT hit
+1453  130  TLB  hit  PT hit
+1453  130  TLB  hit  PT hit
+1453  130  TLB  hit  PT hit
+1453  130  TLB  hit  PT hit
+6309  131  TLB no hit  PT no hit
+6309  131  TLB  hit  PT hit
+6309  131  TLB  hit  PT hit
+6309  131  TLB  hit  PT hit
+6309  131  TLB  hit  PT hit
+6309  131  TLB  hit  PT hit
+6309  131  TLB  hit  PT hit
+6309  131  TLB  hit  PT hit
+6309  131  TLB  hit  PT hit
+6309  131  TLB  hit  PT hit
+7970  132  TLB no hit  PT no hit
+7970  132  TLB  hit  PT hit
+7970  132  TLB  hit  PT hit
+7970  132  TLB  hit  PT hit
+7970  132  TLB  hit  PT hit
+7970  132  TLB  hit  PT hit
+7970  132  TLB  hit  PT hit
+7970  132  TLB  hit  PT hit
+7970  132  TLB  hit  PT hit
+7970  132  TLB  hit  PT hit
+3183  133  TLB no hit  PT no hit
+3183  133  TLB  hit  PT hit
+3183  133  TLB  hit  PT hit
+3183  133  TLB  hit  PT hit
+3183  133  TLB  hit  PT hit
+3183  133  TLB  hit  PT hit
+3183  133  TLB  hit  PT hit
+3183  133  TLB  hit  PT hit
+3183  133  TLB  hit  PT hit
+3183  133  TLB  hit  PT hit
+7950  134  TLB no hit  PT no hit
+7950  134  TLB  hit  PT hit
+7950  134  TLB  hit  PT hit
+7950  134  TLB  hit  PT hit
+7950  134  TLB  hit  PT hit
+7950  134  TLB  hit  PT hit
+7950  134  TLB  hit  PT hit
+7950  134  TLB  hit  PT hit
+7950  134  TLB  hit  PT hit
+7950  134  TLB  hit  PT hit
+2862  135  TLB no hit  PT no hit
+2862  135  TLB  hit  PT hit
+2862  135  TLB  hit  PT hit
+2862  135  TLB  hit  PT hit
+2862  135  TLB  hit  PT hit
+2862  135  TLB  hit  PT hit
+2862  135  TLB  hit  PT hit
+2862  135  TLB  hit  PT hit
+2862  135  TLB  hit  PT hit
+2862  135  TLB  hit  PT hit
+6921  136  TLB no hit  PT no hit
+6921  136  TLB  hit  PT hit
+6921  136  TLB  hit  PT hit
+6921  136  TLB  hit  PT hit
+6921  136  TLB  hit  PT hit
+6921  136  TLB  hit  PT hit
+6921  136  TLB  hit  PT hit
+6921  136  TLB  hit  PT hit
+6921  136  TLB  hit  PT hit
+6921  136  TLB  hit  PT hit
+990  137  TLB no hit  PT no hit
+990  137  TLB  hit  PT hit
+990  137  TLB  hit  PT hit
+990  137  TLB  hit  PT hit
+990  137  TLB  hit  PT hit
+990  137  TLB  hit  PT hit
+990  137  TLB  hit  PT hit
+990  137  TLB  hit  PT hit
+990  137  TLB  hit  PT hit
+990  137  TLB  hit  PT hit
+4785  138  TLB no hit  PT no hit
+4785  138  TLB  hit  PT hit
+4785  138  TLB  hit  PT hit
+4785  138  TLB  hit  PT hit
+4785  138  TLB  hit  PT hit
+4785  138  TLB  hit  PT hit
+4785  138  TLB  hit  PT hit
+4785  138  TLB  hit  PT hit
+4785  138  TLB  hit  PT hit
+4785  138  TLB  hit  PT hit
+2139  139  TLB no hit  PT no hit
+2139  139  TLB  hit  PT hit
+2139  139  TLB  hit  PT hit
+2139  139  TLB  hit  PT hit
+2139  139  TLB  hit  PT hit
+2139  139  TLB  hit  PT hit
+2139  139  TLB  hit  PT hit
+2139  139  TLB  hit  PT hit
+2139  139  TLB  hit  PT hit
+2139  139  TLB  hit  PT hit
+6085  140  TLB no hit  PT no hit
+6085  140  TLB  hit  PT hit
+6085  140  TLB  hit  PT hit
+6085  140  TLB  hit  PT hit
+6085  140  TLB  hit  PT hit
+6085  140  TLB  hit  PT hit
+6085  140  TLB  hit  PT hit
+6085  140  TLB  hit  PT hit
+6085  140  TLB  hit  PT hit
+6085  140  TLB  hit  PT hit
+5104  141  TLB no hit  PT no hit
+5104  141  TLB  hit  PT hit
+5104  141  TLB  hit  PT hit
+5104  141  TLB  hit  PT hit
+5104  141  TLB  hit  PT hit
+5104  141  TLB  hit  PT hit
+5104  141  TLB  hit  PT hit
+5104  141  TLB  hit  PT hit
+5104  141  TLB  hit  PT hit
+5104  141  TLB  hit  PT hit
+3605  142  TLB no hit  PT no hit
+3605  142  TLB  hit  PT hit
+3605  142  TLB  hit  PT hit
+3605  142  TLB  hit  PT hit
+3605  142  TLB  hit  PT hit
+3605  142  TLB  hit  PT hit
+3605  142  TLB  hit  PT hit
+3605  142  TLB  hit  PT hit
+3605  142  TLB  hit  PT hit
+3605  142  TLB  hit  PT hit
+6986  143  TLB no hit  PT no hit
+6986  143  TLB  hit  PT hit
+6986  143  TLB  hit  PT hit
+6986  143  TLB  hit  PT hit
+6986  143  TLB  hit  PT hit
+6986  143  TLB  hit  PT hit
+6986  143  TLB  hit  PT hit
+6986  143  TLB  hit  PT hit
+6986  143  TLB  hit  PT hit
+6986  143  TLB  hit  PT hit
+6892  144  TLB no hit  PT no hit
+6892  144  TLB  hit  PT hit
+6892  144  TLB  hit  PT hit
+6892  144  TLB  hit  PT hit
+6892  144  TLB  hit  PT hit
+6892  144  TLB  hit  PT hit
+6892  144  TLB  hit  PT hit
+6892  144  TLB  hit  PT hit
+6892  144  TLB  hit  PT hit
+6892  144  TLB  hit  PT hit
+第1次VP number PF number TLB hit/no hit  PT hit/no hit：
+7034  95  TLB no hit  PT hit
+7034  95  TLB  hit  PT hit
+7034  95  TLB  hit  PT hit
+7034  95  TLB  hit  PT hit
+7034  95  TLB  hit  PT hit
+7034  95  TLB  hit  PT hit
+7034  95  TLB  hit  PT hit
+7034  95  TLB  hit  PT hit
+7034  95  TLB  hit  PT hit
+7034  95  TLB  hit  PT hit
+1329  96  TLB no hit  PT hit
+1329  96  TLB  hit  PT hit
+1329  96  TLB  hit  PT hit
+1329  96  TLB  hit  PT hit
+1329  96  TLB  hit  PT hit
+1329  96  TLB  hit  PT hit
+1329  96  TLB  hit  PT hit
+1329  96  TLB  hit  PT hit
+1329  96  TLB  hit  PT hit
+1329  96  TLB  hit  PT hit
+3440  97  TLB no hit  PT hit
+3440  97  TLB  hit  PT hit
+3440  97  TLB  hit  PT hit
+3440  97  TLB  hit  PT hit
+3440  97  TLB  hit  PT hit
+3440  97  TLB  hit  PT hit
+3440  97  TLB  hit  PT hit
+3440  97  TLB  hit  PT hit
+3440  97  TLB  hit  PT hit
+3440  97  TLB  hit  PT hit
+5411  98  TLB no hit  PT hit
+5411  98  TLB  hit  PT hit
+5411  98  TLB  hit  PT hit
+5411  98  TLB  hit  PT hit
+5411  98  TLB  hit  PT hit
+5411  98  TLB  hit  PT hit
+5411  98  TLB  hit  PT hit
+5411  98  TLB  hit  PT hit
+5411  98  TLB  hit  PT hit
+5411  98  TLB  hit  PT hit
+6415  99  TLB no hit  PT hit
+6415  99  TLB  hit  PT hit
+6415  99  TLB  hit  PT hit
+6415  99  TLB  hit  PT hit
+6415  99  TLB  hit  PT hit
+6415  99  TLB  hit  PT hit
+6415  99  TLB  hit  PT hit
+6415  99  TLB  hit  PT hit
+6415  99  TLB  hit  PT hit
+6415  99  TLB  hit  PT hit
+4070  100  TLB no hit  PT hit
+4070  100  TLB  hit  PT hit
+4070  100  TLB  hit  PT hit
+4070  100  TLB  hit  PT hit
+4070  100  TLB  hit  PT hit
+4070  100  TLB  hit  PT hit
+4070  100  TLB  hit  PT hit
+4070  100  TLB  hit  PT hit
+4070  100  TLB  hit  PT hit
+4070  100  TLB  hit  PT hit
+7619  101  TLB no hit  PT hit
+7619  101  TLB  hit  PT hit
+7619  101  TLB  hit  PT hit
+7619  101  TLB  hit  PT hit
+7619  101  TLB  hit  PT hit
+7619  101  TLB  hit  PT hit
+7619  101  TLB  hit  PT hit
+7619  101  TLB  hit  PT hit
+7619  101  TLB  hit  PT hit
+7619  101  TLB  hit  PT hit
+4034  102  TLB no hit  PT hit
+4034  102  TLB  hit  PT hit
+4034  102  TLB  hit  PT hit
+4034  102  TLB  hit  PT hit
+4034  102  TLB  hit  PT hit
+4034  102  TLB  hit  PT hit
+4034  102  TLB  hit  PT hit
+4034  102  TLB  hit  PT hit
+4034  102  TLB  hit  PT hit
+4034  102  TLB  hit  PT hit
+7048  103  TLB no hit  PT hit
+7048  103  TLB  hit  PT hit
+7048  103  TLB  hit  PT hit
+7048  103  TLB  hit  PT hit
+7048  103  TLB  hit  PT hit
+7048  103  TLB  hit  PT hit
+7048  103  TLB  hit  PT hit
+7048  103  TLB  hit  PT hit
+7048  103  TLB  hit  PT hit
+7048  103  TLB  hit  PT hit
+2707  104  TLB no hit  PT hit
+2707  104  TLB  hit  PT hit
+2707  104  TLB  hit  PT hit
+2707  104  TLB  hit  PT hit
+2707  104  TLB  hit  PT hit
+2707  104  TLB  hit  PT hit
+2707  104  TLB  hit  PT hit
+2707  104  TLB  hit  PT hit
+2707  104  TLB  hit  PT hit
+2707  104  TLB  hit  PT hit
+4696  105  TLB no hit  PT hit
+4696  105  TLB  hit  PT hit
+4696  105  TLB  hit  PT hit
+4696  105  TLB  hit  PT hit
+4696  105  TLB  hit  PT hit
+4696  105  TLB  hit  PT hit
+4696  105  TLB  hit  PT hit
+4696  105  TLB  hit  PT hit
+4696  105  TLB  hit  PT hit
+4696  105  TLB  hit  PT hit
+1815  106  TLB no hit  PT hit
+1815  106  TLB  hit  PT hit
+1815  106  TLB  hit  PT hit
+1815  106  TLB  hit  PT hit
+1815  106  TLB  hit  PT hit
+1815  106  TLB  hit  PT hit
+1815  106  TLB  hit  PT hit
+1815  106  TLB  hit  PT hit
+1815  106  TLB  hit  PT hit
+1815  106  TLB  hit  PT hit
+6505  107  TLB no hit  PT hit
+6505  107  TLB  hit  PT hit
+6505  107  TLB  hit  PT hit
+6505  107  TLB  hit  PT hit
+6505  107  TLB  hit  PT hit
+6505  107  TLB  hit  PT hit
+6505  107  TLB  hit  PT hit
+6505  107  TLB  hit  PT hit
+6505  107  TLB  hit  PT hit
+6505  107  TLB  hit  PT hit
+615  108  TLB no hit  PT hit
+615  108  TLB  hit  PT hit
+615  108  TLB  hit  PT hit
+615  108  TLB  hit  PT hit
+615  108  TLB  hit  PT hit
+615  108  TLB  hit  PT hit
+615  108  TLB  hit  PT hit
+615  108  TLB  hit  PT hit
+615  108  TLB  hit  PT hit
+615  108  TLB  hit  PT hit
+4702  109  TLB no hit  PT hit
+4702  109  TLB  hit  PT hit
+4702  109  TLB  hit  PT hit
+4702  109  TLB  hit  PT hit
+4702  109  TLB  hit  PT hit
+4702  109  TLB  hit  PT hit
+4702  109  TLB  hit  PT hit
+4702  109  TLB  hit  PT hit
+4702  109  TLB  hit  PT hit
+4702  109  TLB  hit  PT hit
+8085  110  TLB no hit  PT hit
+8085  110  TLB  hit  PT hit
+8085  110  TLB  hit  PT hit
+8085  110  TLB  hit  PT hit
+8085  110  TLB  hit  PT hit
+8085  110  TLB  hit  PT hit
+8085  110  TLB  hit  PT hit
+8085  110  TLB  hit  PT hit
+8085  110  TLB  hit  PT hit
+8085  110  TLB  hit  PT hit
+3010  111  TLB no hit  PT hit
+3010  111  TLB  hit  PT hit
+3010  111  TLB  hit  PT hit
+3010  111  TLB  hit  PT hit
+3010  111  TLB  hit  PT hit
+3010  111  TLB  hit  PT hit
+3010  111  TLB  hit  PT hit
+3010  111  TLB  hit  PT hit
+3010  111  TLB  hit  PT hit
+3010  111  TLB  hit  PT hit
+6742  112  TLB no hit  PT hit
+6742  112  TLB  hit  PT hit
+6742  112  TLB  hit  PT hit
+6742  112  TLB  hit  PT hit
+6742  112  TLB  hit  PT hit
+6742  112  TLB  hit  PT hit
+6742  112  TLB  hit  PT hit
+6742  112  TLB  hit  PT hit
+6742  112  TLB  hit  PT hit
+6742  112  TLB  hit  PT hit
+7647  113  TLB no hit  PT hit
+7647  113  TLB  hit  PT hit
+7647  113  TLB  hit  PT hit
+7647  113  TLB  hit  PT hit
+7647  113  TLB  hit  PT hit
+7647  113  TLB  hit  PT hit
+7647  113  TLB  hit  PT hit
+7647  113  TLB  hit  PT hit
+7647  113  TLB  hit  PT hit
+7647  113  TLB  hit  PT hit
+2764  114  TLB no hit  PT hit
+2764  114  TLB  hit  PT hit
+2764  114  TLB  hit  PT hit
+2764  114  TLB  hit  PT hit
+2764  114  TLB  hit  PT hit
+2764  114  TLB  hit  PT hit
+2764  114  TLB  hit  PT hit
+2764  114  TLB  hit  PT hit
+2764  114  TLB  hit  PT hit
+2764  114  TLB  hit  PT hit
+2231  115  TLB no hit  PT hit
+2231  115  TLB  hit  PT hit
+2231  115  TLB  hit  PT hit
+2231  115  TLB  hit  PT hit
+2231  115  TLB  hit  PT hit
+2231  115  TLB  hit  PT hit
+2231  115  TLB  hit  PT hit
+2231  115  TLB  hit  PT hit
+2231  115  TLB  hit  PT hit
+2231  115  TLB  hit  PT hit
+129  116  TLB no hit  PT hit
+129  116  TLB  hit  PT hit
+129  116  TLB  hit  PT hit
+129  116  TLB  hit  PT hit
+129  116  TLB  hit  PT hit
+129  116  TLB  hit  PT hit
+129  116  TLB  hit  PT hit
+129  116  TLB  hit  PT hit
+129  116  TLB  hit  PT hit
+129  116  TLB  hit  PT hit
+3549  117  TLB no hit  PT hit
+3549  117  TLB  hit  PT hit
+3549  117  TLB  hit  PT hit
+3549  117  TLB  hit  PT hit
+3549  117  TLB  hit  PT hit
+3549  117  TLB  hit  PT hit
+3549  117  TLB  hit  PT hit
+3549  117  TLB  hit  PT hit
+3549  117  TLB  hit  PT hit
+3549  117  TLB  hit  PT hit
+4269  118  TLB no hit  PT hit
+4269  118  TLB  hit  PT hit
+4269  118  TLB  hit  PT hit
+4269  118  TLB  hit  PT hit
+4269  118  TLB  hit  PT hit
+4269  118  TLB  hit  PT hit
+4269  118  TLB  hit  PT hit
+4269  118  TLB  hit  PT hit
+4269  118  TLB  hit  PT hit
+4269  118  TLB  hit  PT hit
+7094  119  TLB no hit  PT hit
+7094  119  TLB  hit  PT hit
+7094  119  TLB  hit  PT hit
+7094  119  TLB  hit  PT hit
+7094  119  TLB  hit  PT hit
+7094  119  TLB  hit  PT hit
+7094  119  TLB  hit  PT hit
+7094  119  TLB  hit  PT hit
+7094  119  TLB  hit  PT hit
+7094  119  TLB  hit  PT hit
+5504  120  TLB no hit  PT hit
+5504  120  TLB  hit  PT hit
+5504  120  TLB  hit  PT hit
+5504  120  TLB  hit  PT hit
+5504  120  TLB  hit  PT hit
+5504  120  TLB  hit  PT hit
+5504  120  TLB  hit  PT hit
+5504  120  TLB  hit  PT hit
+5504  120  TLB  hit  PT hit
+5504  120  TLB  hit  PT hit
+4942  121  TLB no hit  PT hit
+4942  121  TLB  hit  PT hit
+4942  121  TLB  hit  PT hit
+4942  121  TLB  hit  PT hit
+4942  121  TLB  hit  PT hit
+4942  121  TLB  hit  PT hit
+4942  121  TLB  hit  PT hit
+4942  121  TLB  hit  PT hit
+4942  121  TLB  hit  PT hit
+4942  121  TLB  hit  PT hit
+7666  122  TLB no hit  PT hit
+7666  122  TLB  hit  PT hit
+7666  122  TLB  hit  PT hit
+7666  122  TLB  hit  PT hit
+7666  122  TLB  hit  PT hit
+7666  122  TLB  hit  PT hit
+7666  122  TLB  hit  PT hit
+7666  122  TLB  hit  PT hit
+7666  122  TLB  hit  PT hit
+7666  122  TLB  hit  PT hit
+6355  123  TLB no hit  PT hit
+6355  123  TLB  hit  PT hit
+6355  123  TLB  hit  PT hit
+6355  123  TLB  hit  PT hit
+6355  123  TLB  hit  PT hit
+6355  123  TLB  hit  PT hit
+6355  123  TLB  hit  PT hit
+6355  123  TLB  hit  PT hit
+6355  123  TLB  hit  PT hit
+6355  123  TLB  hit  PT hit
+2212  124  TLB no hit  PT hit
+2212  124  TLB  hit  PT hit
+2212  124  TLB  hit  PT hit
+2212  124  TLB  hit  PT hit
+2212  124  TLB  hit  PT hit
+2212  124  TLB  hit  PT hit
+2212  124  TLB  hit  PT hit
+2212  124  TLB  hit  PT hit
+2212  124  TLB  hit  PT hit
+2212  124  TLB  hit  PT hit
+966  125  TLB no hit  PT hit
+966  125  TLB  hit  PT hit
+966  125  TLB  hit  PT hit
+966  125  TLB  hit  PT hit
+966  125  TLB  hit  PT hit
+966  125  TLB  hit  PT hit
+966  125  TLB  hit  PT hit
+966  125  TLB  hit  PT hit
+966  125  TLB  hit  PT hit
+966  125  TLB  hit  PT hit
+242  126  TLB no hit  PT hit
+242  126  TLB  hit  PT hit
+242  126  TLB  hit  PT hit
+242  126  TLB  hit  PT hit
+242  126  TLB  hit  PT hit
+242  126  TLB  hit  PT hit
+242  126  TLB  hit  PT hit
+242  126  TLB  hit  PT hit
+242  126  TLB  hit  PT hit
+242  126  TLB  hit  PT hit
+7004  127  TLB no hit  PT hit
+7004  127  TLB  hit  PT hit
+7004  127  TLB  hit  PT hit
+7004  127  TLB  hit  PT hit
+7004  127  TLB  hit  PT hit
+7004  127  TLB  hit  PT hit
+7004  127  TLB  hit  PT hit
+7004  127  TLB  hit  PT hit
+7004  127  TLB  hit  PT hit
+7004  127  TLB  hit  PT hit
+5513  128  TLB no hit  PT hit
+5513  128  TLB  hit  PT hit
+5513  128  TLB  hit  PT hit
+5513  128  TLB  hit  PT hit
+5513  128  TLB  hit  PT hit
+5513  128  TLB  hit  PT hit
+5513  128  TLB  hit  PT hit
+5513  128  TLB  hit  PT hit
+5513  128  TLB  hit  PT hit
+5513  128  TLB  hit  PT hit
+3141  129  TLB no hit  PT hit
+3141  129  TLB  hit  PT hit
+3141  129  TLB  hit  PT hit
+3141  129  TLB  hit  PT hit
+3141  129  TLB  hit  PT hit
+3141  129  TLB  hit  PT hit
+3141  129  TLB  hit  PT hit
+3141  129  TLB  hit  PT hit
+3141  129  TLB  hit  PT hit
+3141  129  TLB  hit  PT hit
+1453  130  TLB no hit  PT hit
+1453  130  TLB  hit  PT hit
+1453  130  TLB  hit  PT hit
+1453  130  TLB  hit  PT hit
+1453  130  TLB  hit  PT hit
+1453  130  TLB  hit  PT hit
+1453  130  TLB  hit  PT hit
+1453  130  TLB  hit  PT hit
+1453  130  TLB  hit  PT hit
+1453  130  TLB  hit  PT hit
+6309  131  TLB no hit  PT hit
+6309  131  TLB  hit  PT hit
+6309  131  TLB  hit  PT hit
+6309  131  TLB  hit  PT hit
+6309  131  TLB  hit  PT hit
+6309  131  TLB  hit  PT hit
+6309  131  TLB  hit  PT hit
+6309  131  TLB  hit  PT hit
+6309  131  TLB  hit  PT hit
+6309  131  TLB  hit  PT hit
+7970  132  TLB no hit  PT hit
+7970  132  TLB  hit  PT hit
+7970  132  TLB  hit  PT hit
+7970  132  TLB  hit  PT hit
+7970  132  TLB  hit  PT hit
+7970  132  TLB  hit  PT hit
+7970  132  TLB  hit  PT hit
+7970  132  TLB  hit  PT hit
+7970  132  TLB  hit  PT hit
+7970  132  TLB  hit  PT hit
+3183  133  TLB no hit  PT hit
+3183  133  TLB  hit  PT hit
+3183  133  TLB  hit  PT hit
+3183  133  TLB  hit  PT hit
+3183  133  TLB  hit  PT hit
+3183  133  TLB  hit  PT hit
+3183  133  TLB  hit  PT hit
+3183  133  TLB  hit  PT hit
+3183  133  TLB  hit  PT hit
+3183  133  TLB  hit  PT hit
+7950  134  TLB no hit  PT hit
+7950  134  TLB  hit  PT hit
+7950  134  TLB  hit  PT hit
+7950  134  TLB  hit  PT hit
+7950  134  TLB  hit  PT hit
+7950  134  TLB  hit  PT hit
+7950  134  TLB  hit  PT hit
+7950  134  TLB  hit  PT hit
+7950  134  TLB  hit  PT hit
+7950  134  TLB  hit  PT hit
+2862  135  TLB no hit  PT hit
+2862  135  TLB  hit  PT hit
+2862  135  TLB  hit  PT hit
+2862  135  TLB  hit  PT hit
+2862  135  TLB  hit  PT hit
+2862  135  TLB  hit  PT hit
+2862  135  TLB  hit  PT hit
+2862  135  TLB  hit  PT hit
+2862  135  TLB  hit  PT hit
+2862  135  TLB  hit  PT hit
+6921  136  TLB no hit  PT hit
+6921  136  TLB  hit  PT hit
+6921  136  TLB  hit  PT hit
+6921  136  TLB  hit  PT hit
+6921  136  TLB  hit  PT hit
+6921  136  TLB  hit  PT hit
+6921  136  TLB  hit  PT hit
+6921  136  TLB  hit  PT hit
+6921  136  TLB  hit  PT hit
+6921  136  TLB  hit  PT hit
+990  137  TLB no hit  PT hit
+990  137  TLB  hit  PT hit
+990  137  TLB  hit  PT hit
+990  137  TLB  hit  PT hit
+990  137  TLB  hit  PT hit
+990  137  TLB  hit  PT hit
+990  137  TLB  hit  PT hit
+990  137  TLB  hit  PT hit
+990  137  TLB  hit  PT hit
+990  137  TLB  hit  PT hit
+4785  138  TLB no hit  PT hit
+4785  138  TLB  hit  PT hit
+4785  138  TLB  hit  PT hit
+4785  138  TLB  hit  PT hit
+4785  138  TLB  hit  PT hit
+4785  138  TLB  hit  PT hit
+4785  138  TLB  hit  PT hit
+4785  138  TLB  hit  PT hit
+4785  138  TLB  hit  PT hit
+4785  138  TLB  hit  PT hit
+2139  139  TLB no hit  PT hit
+2139  139  TLB  hit  PT hit
+2139  139  TLB  hit  PT hit
+2139  139  TLB  hit  PT hit
+2139  139  TLB  hit  PT hit
+2139  139  TLB  hit  PT hit
+2139  139  TLB  hit  PT hit
+2139  139  TLB  hit  PT hit
+2139  139  TLB  hit  PT hit
+2139  139  TLB  hit  PT hit
+6085  140  TLB no hit  PT hit
+6085  140  TLB  hit  PT hit
+6085  140  TLB  hit  PT hit
+6085  140  TLB  hit  PT hit
+6085  140  TLB  hit  PT hit
+6085  140  TLB  hit  PT hit
+6085  140  TLB  hit  PT hit
+6085  140  TLB  hit  PT hit
+6085  140  TLB  hit  PT hit
+6085  140  TLB  hit  PT hit
+5104  141  TLB no hit  PT hit
+5104  141  TLB  hit  PT hit
+5104  141  TLB  hit  PT hit
+5104  141  TLB  hit  PT hit
+5104  141  TLB  hit  PT hit
+5104  141  TLB  hit  PT hit
+5104  141  TLB  hit  PT hit
+5104  141  TLB  hit  PT hit
+5104  141  TLB  hit  PT hit
+5104  141  TLB  hit  PT hit
+3605  142  TLB no hit  PT hit
+3605  142  TLB  hit  PT hit
+3605  142  TLB  hit  PT hit
+3605  142  TLB  hit  PT hit
+3605  142  TLB  hit  PT hit
+3605  142  TLB  hit  PT hit
+3605  142  TLB  hit  PT hit
+3605  142  TLB  hit  PT hit
+3605  142  TLB  hit  PT hit
+3605  142  TLB  hit  PT hit
+6986  143  TLB no hit  PT hit
+6986  143  TLB  hit  PT hit
+6986  143  TLB  hit  PT hit
+6986  143  TLB  hit  PT hit
+6986  143  TLB  hit  PT hit
+6986  143  TLB  hit  PT hit
+6986  143  TLB  hit  PT hit
+6986  143  TLB  hit  PT hit
+6986  143  TLB  hit  PT hit
+6986  143  TLB  hit  PT hit
+6892  144  TLB no hit  PT hit
+6892  144  TLB  hit  PT hit
+6892  144  TLB  hit  PT hit
+6892  144  TLB  hit  PT hit
+6892  144  TLB  hit  PT hit
+6892  144  TLB  hit  PT hit
+6892  144  TLB  hit  PT hit
+6892  144  TLB  hit  PT hit
+6892  144  TLB  hit  PT hit
+6892  144  TLB  hit  PT hit
+第2次VP number PF number TLB hit/no hit  PT hit/no hit：
+7034  95  TLB no hit  PT hit
+7034  95  TLB  hit  PT hit
+7034  95  TLB  hit  PT hit
+7034  95  TLB  hit  PT hit
+7034  95  TLB  hit  PT hit
+7034  95  TLB  hit  PT hit
+7034  95  TLB  hit  PT hit
+7034  95  TLB  hit  PT hit
+7034  95  TLB  hit  PT hit
+7034  95  TLB  hit  PT hit
+1329  96  TLB no hit  PT hit
+1329  96  TLB  hit  PT hit
+1329  96  TLB  hit  PT hit
+1329  96  TLB  hit  PT hit
+1329  96  TLB  hit  PT hit
+1329  96  TLB  hit  PT hit
+1329  96  TLB  hit  PT hit
+1329  96  TLB  hit  PT hit
+1329  96  TLB  hit  PT hit
+1329  96  TLB  hit  PT hit
+3440  97  TLB no hit  PT hit
+3440  97  TLB  hit  PT hit
+3440  97  TLB  hit  PT hit
+3440  97  TLB  hit  PT hit
+3440  97  TLB  hit  PT hit
+3440  97  TLB  hit  PT hit
+3440  97  TLB  hit  PT hit
+3440  97  TLB  hit  PT hit
+3440  97  TLB  hit  PT hit
+3440  97  TLB  hit  PT hit
+5411  98  TLB no hit  PT hit
+5411  98  TLB  hit  PT hit
+5411  98  TLB  hit  PT hit
+5411  98  TLB  hit  PT hit
+5411  98  TLB  hit  PT hit
+5411  98  TLB  hit  PT hit
+5411  98  TLB  hit  PT hit
+5411  98  TLB  hit  PT hit
+5411  98  TLB  hit  PT hit
+5411  98  TLB  hit  PT hit
+6415  99  TLB no hit  PT hit
+6415  99  TLB  hit  PT hit
+6415  99  TLB  hit  PT hit
+6415  99  TLB  hit  PT hit
+6415  99  TLB  hit  PT hit
+6415  99  TLB  hit  PT hit
+6415  99  TLB  hit  PT hit
+6415  99  TLB  hit  PT hit
+6415  99  TLB  hit  PT hit
+6415  99  TLB  hit  PT hit
+4070  100  TLB no hit  PT hit
+4070  100  TLB  hit  PT hit
+4070  100  TLB  hit  PT hit
+4070  100  TLB  hit  PT hit
+4070  100  TLB  hit  PT hit
+4070  100  TLB  hit  PT hit
+4070  100  TLB  hit  PT hit
+4070  100  TLB  hit  PT hit
+4070  100  TLB  hit  PT hit
+4070  100  TLB  hit  PT hit
+7619  101  TLB no hit  PT hit
+7619  101  TLB  hit  PT hit
+7619  101  TLB  hit  PT hit
+7619  101  TLB  hit  PT hit
+7619  101  TLB  hit  PT hit
+7619  101  TLB  hit  PT hit
+7619  101  TLB  hit  PT hit
+7619  101  TLB  hit  PT hit
+7619  101  TLB  hit  PT hit
+7619  101  TLB  hit  PT hit
+4034  102  TLB no hit  PT hit
+4034  102  TLB  hit  PT hit
+4034  102  TLB  hit  PT hit
+4034  102  TLB  hit  PT hit
+4034  102  TLB  hit  PT hit
+4034  102  TLB  hit  PT hit
+4034  102  TLB  hit  PT hit
+4034  102  TLB  hit  PT hit
+4034  102  TLB  hit  PT hit
+4034  102  TLB  hit  PT hit
+7048  103  TLB no hit  PT hit
+7048  103  TLB  hit  PT hit
+7048  103  TLB  hit  PT hit
+7048  103  TLB  hit  PT hit
+7048  103  TLB  hit  PT hit
+7048  103  TLB  hit  PT hit
+7048  103  TLB  hit  PT hit
+7048  103  TLB  hit  PT hit
+7048  103  TLB  hit  PT hit
+7048  103  TLB  hit  PT hit
+2707  104  TLB no hit  PT hit
+2707  104  TLB  hit  PT hit
+2707  104  TLB  hit  PT hit
+2707  104  TLB  hit  PT hit
+2707  104  TLB  hit  PT hit
+2707  104  TLB  hit  PT hit
+2707  104  TLB  hit  PT hit
+2707  104  TLB  hit  PT hit
+2707  104  TLB  hit  PT hit
+2707  104  TLB  hit  PT hit
+4696  105  TLB no hit  PT hit
+4696  105  TLB  hit  PT hit
+4696  105  TLB  hit  PT hit
+4696  105  TLB  hit  PT hit
+4696  105  TLB  hit  PT hit
+4696  105  TLB  hit  PT hit
+4696  105  TLB  hit  PT hit
+4696  105  TLB  hit  PT hit
+4696  105  TLB  hit  PT hit
+4696  105  TLB  hit  PT hit
+1815  106  TLB no hit  PT hit
+1815  106  TLB  hit  PT hit
+1815  106  TLB  hit  PT hit
+1815  106  TLB  hit  PT hit
+1815  106  TLB  hit  PT hit
+1815  106  TLB  hit  PT hit
+1815  106  TLB  hit  PT hit
+1815  106  TLB  hit  PT hit
+1815  106  TLB  hit  PT hit
+1815  106  TLB  hit  PT hit
+6505  107  TLB no hit  PT hit
+6505  107  TLB  hit  PT hit
+6505  107  TLB  hit  PT hit
+6505  107  TLB  hit  PT hit
+6505  107  TLB  hit  PT hit
+6505  107  TLB  hit  PT hit
+6505  107  TLB  hit  PT hit
+6505  107  TLB  hit  PT hit
+6505  107  TLB  hit  PT hit
+6505  107  TLB  hit  PT hit
+615  108  TLB no hit  PT hit
+615  108  TLB  hit  PT hit
+615  108  TLB  hit  PT hit
+615  108  TLB  hit  PT hit
+615  108  TLB  hit  PT hit
+615  108  TLB  hit  PT hit
+615  108  TLB  hit  PT hit
+615  108  TLB  hit  PT hit
+615  108  TLB  hit  PT hit
+615  108  TLB  hit  PT hit
+4702  109  TLB no hit  PT hit
+4702  109  TLB  hit  PT hit
+4702  109  TLB  hit  PT hit
+4702  109  TLB  hit  PT hit
+4702  109  TLB  hit  PT hit
+4702  109  TLB  hit  PT hit
+4702  109  TLB  hit  PT hit
+4702  109  TLB  hit  PT hit
+4702  109  TLB  hit  PT hit
+4702  109  TLB  hit  PT hit
+8085  110  TLB no hit  PT hit
+8085  110  TLB  hit  PT hit
+8085  110  TLB  hit  PT hit
+8085  110  TLB  hit  PT hit
+8085  110  TLB  hit  PT hit
+8085  110  TLB  hit  PT hit
+8085  110  TLB  hit  PT hit
+8085  110  TLB  hit  PT hit
+8085  110  TLB  hit  PT hit
+8085  110  TLB  hit  PT hit
+3010  111  TLB no hit  PT hit
+3010  111  TLB  hit  PT hit
+3010  111  TLB  hit  PT hit
+3010  111  TLB  hit  PT hit
+3010  111  TLB  hit  PT hit
+3010  111  TLB  hit  PT hit
+3010  111  TLB  hit  PT hit
+3010  111  TLB  hit  PT hit
+3010  111  TLB  hit  PT hit
+3010  111  TLB  hit  PT hit
+6742  112  TLB no hit  PT hit
+6742  112  TLB  hit  PT hit
+6742  112  TLB  hit  PT hit
+6742  112  TLB  hit  PT hit
+6742  112  TLB  hit  PT hit
+6742  112  TLB  hit  PT hit
+6742  112  TLB  hit  PT hit
+6742  112  TLB  hit  PT hit
+6742  112  TLB  hit  PT hit
+6742  112  TLB  hit  PT hit
+7647  113  TLB no hit  PT hit
+7647  113  TLB  hit  PT hit
+7647  113  TLB  hit  PT hit
+7647  113  TLB  hit  PT hit
+7647  113  TLB  hit  PT hit
+7647  113  TLB  hit  PT hit
+7647  113  TLB  hit  PT hit
+7647  113  TLB  hit  PT hit
+7647  113  TLB  hit  PT hit
+7647  113  TLB  hit  PT hit
+2764  114  TLB no hit  PT hit
+2764  114  TLB  hit  PT hit
+2764  114  TLB  hit  PT hit
+2764  114  TLB  hit  PT hit
+2764  114  TLB  hit  PT hit
+2764  114  TLB  hit  PT hit
+2764  114  TLB  hit  PT hit
+2764  114  TLB  hit  PT hit
+2764  114  TLB  hit  PT hit
+2764  114  TLB  hit  PT hit
+2231  115  TLB no hit  PT hit
+2231  115  TLB  hit  PT hit
+2231  115  TLB  hit  PT hit
+2231  115  TLB  hit  PT hit
+2231  115  TLB  hit  PT hit
+2231  115  TLB  hit  PT hit
+2231  115  TLB  hit  PT hit
+2231  115  TLB  hit  PT hit
+2231  115  TLB  hit  PT hit
+2231  115  TLB  hit  PT hit
+129  116  TLB no hit  PT hit
+129  116  TLB  hit  PT hit
+129  116  TLB  hit  PT hit
+129  116  TLB  hit  PT hit
+129  116  TLB  hit  PT hit
+129  116  TLB  hit  PT hit
+129  116  TLB  hit  PT hit
+129  116  TLB  hit  PT hit
+129  116  TLB  hit  PT hit
+129  116  TLB  hit  PT hit
+3549  117  TLB no hit  PT hit
+3549  117  TLB  hit  PT hit
+3549  117  TLB  hit  PT hit
+3549  117  TLB  hit  PT hit
+3549  117  TLB  hit  PT hit
+3549  117  TLB  hit  PT hit
+3549  117  TLB  hit  PT hit
+3549  117  TLB  hit  PT hit
+3549  117  TLB  hit  PT hit
+3549  117  TLB  hit  PT hit
+4269  118  TLB no hit  PT hit
+4269  118  TLB  hit  PT hit
+4269  118  TLB  hit  PT hit
+4269  118  TLB  hit  PT hit
+4269  118  TLB  hit  PT hit
+4269  118  TLB  hit  PT hit
+4269  118  TLB  hit  PT hit
+4269  118  TLB  hit  PT hit
+4269  118  TLB  hit  PT hit
+4269  118  TLB  hit  PT hit
+7094  119  TLB no hit  PT hit
+7094  119  TLB  hit  PT hit
+7094  119  TLB  hit  PT hit
+7094  119  TLB  hit  PT hit
+7094  119  TLB  hit  PT hit
+7094  119  TLB  hit  PT hit
+7094  119  TLB  hit  PT hit
+7094  119  TLB  hit  PT hit
+7094  119  TLB  hit  PT hit
+7094  119  TLB  hit  PT hit
+5504  120  TLB no hit  PT hit
+5504  120  TLB  hit  PT hit
+5504  120  TLB  hit  PT hit
+5504  120  TLB  hit  PT hit
+5504  120  TLB  hit  PT hit
+5504  120  TLB  hit  PT hit
+5504  120  TLB  hit  PT hit
+5504  120  TLB  hit  PT hit
+5504  120  TLB  hit  PT hit
+5504  120  TLB  hit  PT hit
+4942  121  TLB no hit  PT hit
+4942  121  TLB  hit  PT hit
+4942  121  TLB  hit  PT hit
+4942  121  TLB  hit  PT hit
+4942  121  TLB  hit  PT hit
+4942  121  TLB  hit  PT hit
+4942  121  TLB  hit  PT hit
+4942  121  TLB  hit  PT hit
+4942  121  TLB  hit  PT hit
+4942  121  TLB  hit  PT hit
+7666  122  TLB no hit  PT hit
+7666  122  TLB  hit  PT hit
+7666  122  TLB  hit  PT hit
+7666  122  TLB  hit  PT hit
+7666  122  TLB  hit  PT hit
+7666  122  TLB  hit  PT hit
+7666  122  TLB  hit  PT hit
+7666  122  TLB  hit  PT hit
+7666  122  TLB  hit  PT hit
+7666  122  TLB  hit  PT hit
+6355  123  TLB no hit  PT hit
+6355  123  TLB  hit  PT hit
+6355  123  TLB  hit  PT hit
+6355  123  TLB  hit  PT hit
+6355  123  TLB  hit  PT hit
+6355  123  TLB  hit  PT hit
+6355  123  TLB  hit  PT hit
+6355  123  TLB  hit  PT hit
+6355  123  TLB  hit  PT hit
+6355  123  TLB  hit  PT hit
+2212  124  TLB no hit  PT hit
+2212  124  TLB  hit  PT hit
+2212  124  TLB  hit  PT hit
+2212  124  TLB  hit  PT hit
+2212  124  TLB  hit  PT hit
+2212  124  TLB  hit  PT hit
+2212  124  TLB  hit  PT hit
+2212  124  TLB  hit  PT hit
+2212  124  TLB  hit  PT hit
+2212  124  TLB  hit  PT hit
+966  125  TLB no hit  PT hit
+966  125  TLB  hit  PT hit
+966  125  TLB  hit  PT hit
+966  125  TLB  hit  PT hit
+966  125  TLB  hit  PT hit
+966  125  TLB  hit  PT hit
+966  125  TLB  hit  PT hit
+966  125  TLB  hit  PT hit
+966  125  TLB  hit  PT hit
+966  125  TLB  hit  PT hit
+242  126  TLB no hit  PT hit
+242  126  TLB  hit  PT hit
+242  126  TLB  hit  PT hit
+242  126  TLB  hit  PT hit
+242  126  TLB  hit  PT hit
+242  126  TLB  hit  PT hit
+242  126  TLB  hit  PT hit
+242  126  TLB  hit  PT hit
+242  126  TLB  hit  PT hit
+242  126  TLB  hit  PT hit
+7004  127  TLB no hit  PT hit
+7004  127  TLB  hit  PT hit
+7004  127  TLB  hit  PT hit
+7004  127  TLB  hit  PT hit
+7004  127  TLB  hit  PT hit
+7004  127  TLB  hit  PT hit
+7004  127  TLB  hit  PT hit
+7004  127  TLB  hit  PT hit
+7004  127  TLB  hit  PT hit
+7004  127  TLB  hit  PT hit
+5513  128  TLB no hit  PT hit
+5513  128  TLB  hit  PT hit
+5513  128  TLB  hit  PT hit
+5513  128  TLB  hit  PT hit
+5513  128  TLB  hit  PT hit
+5513  128  TLB  hit  PT hit
+5513  128  TLB  hit  PT hit
+5513  128  TLB  hit  PT hit
+5513  128  TLB  hit  PT hit
+5513  128  TLB  hit  PT hit
+3141  129  TLB no hit  PT hit
+3141  129  TLB  hit  PT hit
+3141  129  TLB  hit  PT hit
+3141  129  TLB  hit  PT hit
+3141  129  TLB  hit  PT hit
+3141  129  TLB  hit  PT hit
+3141  129  TLB  hit  PT hit
+3141  129  TLB  hit  PT hit
+3141  129  TLB  hit  PT hit
+3141  129  TLB  hit  PT hit
+1453  130  TLB no hit  PT hit
+1453  130  TLB  hit  PT hit
+1453  130  TLB  hit  PT hit
+1453  130  TLB  hit  PT hit
+1453  130  TLB  hit  PT hit
+1453  130  TLB  hit  PT hit
+1453  130  TLB  hit  PT hit
+1453  130  TLB  hit  PT hit
+1453  130  TLB  hit  PT hit
+1453  130  TLB  hit  PT hit
+6309  131  TLB no hit  PT hit
+6309  131  TLB  hit  PT hit
+6309  131  TLB  hit  PT hit
+6309  131  TLB  hit  PT hit
+6309  131  TLB  hit  PT hit
+6309  131  TLB  hit  PT hit
+6309  131  TLB  hit  PT hit
+6309  131  TLB  hit  PT hit
+6309  131  TLB  hit  PT hit
+6309  131  TLB  hit  PT hit
+7970  132  TLB no hit  PT hit
+7970  132  TLB  hit  PT hit
+7970  132  TLB  hit  PT hit
+7970  132  TLB  hit  PT hit
+7970  132  TLB  hit  PT hit
+7970  132  TLB  hit  PT hit
+7970  132  TLB  hit  PT hit
+7970  132  TLB  hit  PT hit
+7970  132  TLB  hit  PT hit
+7970  132  TLB  hit  PT hit
+3183  133  TLB no hit  PT hit
+3183  133  TLB  hit  PT hit
+3183  133  TLB  hit  PT hit
+3183  133  TLB  hit  PT hit
+3183  133  TLB  hit  PT hit
+3183  133  TLB  hit  PT hit
+3183  133  TLB  hit  PT hit
+3183  133  TLB  hit  PT hit
+3183  133  TLB  hit  PT hit
+3183  133  TLB  hit  PT hit
+7950  134  TLB no hit  PT hit
+7950  134  TLB  hit  PT hit
+7950  134  TLB  hit  PT hit
+7950  134  TLB  hit  PT hit
+7950  134  TLB  hit  PT hit
+7950  134  TLB  hit  PT hit
+7950  134  TLB  hit  PT hit
+7950  134  TLB  hit  PT hit
+7950  134  TLB  hit  PT hit
+7950  134  TLB  hit  PT hit
+2862  135  TLB no hit  PT hit
+2862  135  TLB  hit  PT hit
+2862  135  TLB  hit  PT hit
+2862  135  TLB  hit  PT hit
+2862  135  TLB  hit  PT hit
+2862  135  TLB  hit  PT hit
+2862  135  TLB  hit  PT hit
+2862  135  TLB  hit  PT hit
+2862  135  TLB  hit  PT hit
+2862  135  TLB  hit  PT hit
+6921  136  TLB no hit  PT hit
+6921  136  TLB  hit  PT hit
+6921  136  TLB  hit  PT hit
+6921  136  TLB  hit  PT hit
+6921  136  TLB  hit  PT hit
+6921  136  TLB  hit  PT hit
+6921  136  TLB  hit  PT hit
+6921  136  TLB  hit  PT hit
+6921  136  TLB  hit  PT hit
+6921  136  TLB  hit  PT hit
+990  137  TLB no hit  PT hit
+990  137  TLB  hit  PT hit
+990  137  TLB  hit  PT hit
+990  137  TLB  hit  PT hit
+990  137  TLB  hit  PT hit
+990  137  TLB  hit  PT hit
+990  137  TLB  hit  PT hit
+990  137  TLB  hit  PT hit
+990  137  TLB  hit  PT hit
+990  137  TLB  hit  PT hit
+4785  138  TLB no hit  PT hit
+4785  138  TLB  hit  PT hit
+4785  138  TLB  hit  PT hit
+4785  138  TLB  hit  PT hit
+4785  138  TLB  hit  PT hit
+4785  138  TLB  hit  PT hit
+4785  138  TLB  hit  PT hit
+4785  138  TLB  hit  PT hit
+4785  138  TLB  hit  PT hit
+4785  138  TLB  hit  PT hit
+2139  139  TLB no hit  PT hit
+2139  139  TLB  hit  PT hit
+2139  139  TLB  hit  PT hit
+2139  139  TLB  hit  PT hit
+2139  139  TLB  hit  PT hit
+2139  139  TLB  hit  PT hit
+2139  139  TLB  hit  PT hit
+2139  139  TLB  hit  PT hit
+2139  139  TLB  hit  PT hit
+2139  139  TLB  hit  PT hit
+6085  140  TLB no hit  PT hit
+6085  140  TLB  hit  PT hit
+6085  140  TLB  hit  PT hit
+6085  140  TLB  hit  PT hit
+6085  140  TLB  hit  PT hit
+6085  140  TLB  hit  PT hit
+6085  140  TLB  hit  PT hit
+6085  140  TLB  hit  PT hit
+6085  140  TLB  hit  PT hit
+6085  140  TLB  hit  PT hit
+5104  141  TLB no hit  PT hit
+5104  141  TLB  hit  PT hit
+5104  141  TLB  hit  PT hit
+5104  141  TLB  hit  PT hit
+5104  141  TLB  hit  PT hit
+5104  141  TLB  hit  PT hit
+5104  141  TLB  hit  PT hit
+5104  141  TLB  hit  PT hit
+5104  141  TLB  hit  PT hit
+5104  141  TLB  hit  PT hit
+3605  142  TLB no hit  PT hit
+3605  142  TLB  hit  PT hit
+3605  142  TLB  hit  PT hit
+3605  142  TLB  hit  PT hit
+3605  142  TLB  hit  PT hit
+3605  142  TLB  hit  PT hit
+3605  142  TLB  hit  PT hit
+3605  142  TLB  hit  PT hit
+3605  142  TLB  hit  PT hit
+3605  142  TLB  hit  PT hit
+6986  143  TLB no hit  PT hit
+6986  143  TLB  hit  PT hit
+6986  143  TLB  hit  PT hit
+6986  143  TLB  hit  PT hit
+6986  143  TLB  hit  PT hit
+6986  143  TLB  hit  PT hit
+6986  143  TLB  hit  PT hit
+6986  143  TLB  hit  PT hit
+6986  143  TLB  hit  PT hit
+6986  143  TLB  hit  PT hit
+6892  144  TLB no hit  PT hit
+6892  144  TLB  hit  PT hit
+6892  144  TLB  hit  PT hit
+6892  144  TLB  hit  PT hit
+6892  144  TLB  hit  PT hit
+6892  144  TLB  hit  PT hit
+6892  144  TLB  hit  PT hit
+6892  144  TLB  hit  PT hit
+6892  144  TLB  hit  PT hit
+6892  144  TLB  hit  PT hit
