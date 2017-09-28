@@ -1,7 +1,7 @@
 #include"TLB.h"
 #include<iostream>
 using namespace std;
-
+//实现TLB.cpp
 TLB::TLB(){
 	size = 16;
 	valCount = 16;
